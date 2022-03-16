@@ -40,7 +40,7 @@ Usage of this tool in financial systems, trading algorithms or other programs is
 
 ### License
 
-This project is licensed under the [MIT License](./LICENSE.md).
+This project is licensed under the [MIT License](LICENSE.md).
 
 ## Acknowledgments
 
