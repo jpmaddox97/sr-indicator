@@ -4,7 +4,7 @@ This function takes in a dateframe of a security with tradebar data and returns 
 
 <div align="center">
   <kbd>
-    <img src="images/ " />
+    <img src="images/AAPL_Levels.png" />
   </kbd>
 </div>
 
@@ -33,32 +33,6 @@ Most issues with this function would be with formatting of your dataframe. Make 
 ## Photos
 
 Some more photos of the project and the build process.
-
-<div align="center">
-  <kbd>
-    <img src="images/frank-wang-ogxlyCA1BQc-unsplash.jpg" />
-  </kbd>
-    
-  caption of what is in this photo
-</div>
-
-<div align="center">
-  <kbd>
-    <img src="images/nicolas-thomas-3GZi6OpSDcY-unsplash.jpg" />
-  </kbd>
-    
-  caption of what is in this photo
-</div>
-
-<div align="center">
-  <kbd>
-    <img src="images/sahand-babali-owjrvbyXYyc-unsplash.jpg" />
-  </kbd>
-    
-  caption of what is in this photo
-</div>
-
-## Back matter
 
 ### Legal disclaimer
 
